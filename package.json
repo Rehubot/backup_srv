@@ -1,0 +1,9 @@
+{
+  "name": "fetena",
+  "version": "0.0.1",
+  "author": "rehana",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "mysql": "2.x.x"
+  }
+}
